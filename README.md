@@ -1,7 +1,6 @@
 04/28/2025
 The following is a duplication of Joseph Lee's 'intuitive-deep-learning' to be used for a college class assignment where I need to clone, verify, and test the files within a repository.
-With the exception of this line of text and the 2 above it,
-# Nothing is my own work. - Jake Pfau
+With the exception of this line of text and the 2 above it, nothing is my own work. - Jake Pfau
 
 # Intuitive Deep Learning
 
